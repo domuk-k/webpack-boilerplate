@@ -24,7 +24,7 @@ $ npm install
 ```
 
 ## Development
-Run the local webpack-dev-server with livereload and autocompile on [http://localhost:8080/](http://localhost:8080/)
+Run the local webpack-dev-server with livereload and autocompile on [http://localhost:9000/](http://localhost:9000/)
 ```sh
 $ npm run dev
 ```
